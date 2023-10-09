@@ -12,15 +12,14 @@
 ## Materials
 ### MM_Surge
 
-![Unreal_Surge](https://github.com/moskalentarium/IndikatorFest/assets/36862146/960af760-2965-4003-afec-965911d8fec5)
-
-![Unity_Surge](https://github.com/moskalentarium/IndikatorFest/assets/36862146/b67cc3f3-c70f-4b36-8926-9f5eddbea099)
+![271104868-960af760-2965-4003-afec-965911d8fec5](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/1b531638-a099-4fb5-9777-0c6dfc93dded)
+![271103990-b67cc3f3-c70f-4b36-8926-9f5eddbea099](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/10af29bd-ca60-49bd-a0e0-6ca1d3592250)
 
 <details>
 
 Translucent Unlit / Sprite Unlit Shader Graph
 
-![Surge_Shader](https://github.com/moskalentarium/IndikatorFest/assets/36862146/3974a39c-5f47-415c-8af2-59f6880a789c)
+![270977375-3974a39c-5f47-415c-8af2-59f6880a789c](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/3f0b4bed-6a6d-4761-911e-675ad7eb021d)
 
 #### Output Color
 <!--
@@ -34,13 +33,11 @@ Translucent Unlit / Sprite Unlit Shader Graph
 -->
 Curve Atlas Row Parameter: Мы хотим создать свой градиент из кривый внутри движка - мы создаем ColorCurve. Чтобы градиент/кривую конвертировать в текстуру - мы создаем CurveAtlas. Этот атлас может в себе хранить множество кривых, мы ограничимся одной. Теперь, чтобы атлас использовать в материале, мы используем нод Curve Atlas Row Parameter. Сначала добавляем атлас, потом кривую
 Sample Gradient
-![Surge_Color_CurveAtlasRowParam](https://github.com/moskalentarium/IndikatorFest/assets/36862146/aad7af0b-b245-48e4-9451-ab1252fc89e3)
-<!--
+![270977449-aad7af0b-b245-48e4-9451-ab1252fc89e3](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/708a0872-01b0-41ce-ab40-c7101cb4ced7)<!--
 ![Surge_Color_Output-Rerout](https://github.com/moskalentarium/IndikatorFest/assets/36862146/ce4a5af7-94f2-4085-8133-c12dc5f5b626)
 -->
-![Surge_Color_frame](https://github.com/moskalentarium/IndikatorFest/assets/36862146/b8d625f3-6c77-489a-823a-3856baa8bfeb)
-
-![Unity_OutputColor](https://github.com/moskalentarium/IndikatorFest/assets/36862146/897fb9e0-e9f7-4487-92d6-6b8ce3f794d9)
+![270977488-b8d625f3-6c77-489a-823a-3856baa8bfeb](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/b726cf59-fb2f-4006-96e3-3e3f309ebdfc)
+![271103865-897fb9e0-e9f7-4487-92d6-6b8ce3f794d9](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/4887bf0d-4869-4e12-9d4e-263a9c032a0b)
 
 #### UV Mask
 <!--
@@ -125,23 +122,19 @@ Refraction / IOR
 <!--
 ![Glow_RadialExpon](https://github.com/moskalentarium/IndikatorFest/assets/36862146/95ab6ed0-2e67-42a4-95cc-22bbdecee7fd)
 -->
-![Glow_Radial](https://github.com/moskalentarium/IndikatorFest/assets/36862146/df88e336-151c-40bc-874e-da61c9d7e680)
-<!--
+![270979455-df88e336-151c-40bc-874e-da61c9d7e680](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/46e2f294-926e-401f-92ab-9c7e3ae09de2)<!--
 ![Glow_Emissive](https://github.com/moskalentarium/IndikatorFest/assets/36862146/19a0535d-5f8e-4240-9b27-68055d647369)
 ![Glow_Opacity](https://github.com/moskalentarium/IndikatorFest/assets/36862146/20f8a326-d9a8-4a7e-acb3-08bcedb9f059)
 -->
-![Glow_Final](https://github.com/moskalentarium/IndikatorFest/assets/36862146/6f8e3e6e-d26d-41cc-be53-25e6b747dfa8)
-
-![Unity_SimpleGlow](https://github.com/moskalentarium/IndikatorFest/assets/36862146/f5e5d8d6-6b50-4f2d-a41f-728f17a376b4)
-
+![270979483-6f8e3e6e-d26d-41cc-be53-25e6b747dfa8](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/0fd8a024-9307-42e1-837c-29921b7feded)
+![271108196-f5e5d8d6-6b50-4f2d-a41f-728f17a376b4](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/edd7d539-dd7d-45b3-9647-6b1766bbd59b)
 </details>
 
 ### MM_SolidColor
 
 <details>
 
-![FlatColor](https://github.com/moskalentarium/IndikatorFest/assets/36862146/cf339e5b-b260-459f-8fc9-e2db40b2515d)
-
+![270979620-cf339e5b-b260-459f-8fc9-e2db40b2515d](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/c7adf372-a9d5-4c1a-8e67-5d5c844e8d6b)
 </details>
 
 [Back to top](#indikatorfest)
