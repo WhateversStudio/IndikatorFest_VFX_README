@@ -12,14 +12,14 @@
 ## Materials
 ### MM_Surge
 
-![271104868-960af760-2965-4003-afec-965911d8fec5](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/1b531638-a099-4fb5-9777-0c6dfc93dded)
-![271103990-b67cc3f3-c70f-4b36-8926-9f5eddbea099](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/10af29bd-ca60-49bd-a0e0-6ca1d3592250)
+![Unreal_Surge](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/1b531638-a099-4fb5-9777-0c6dfc93dded)
+![Unity_Surge](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/10af29bd-ca60-49bd-a0e0-6ca1d3592250)
 
 <details>
 
 Translucent Unlit / Sprite Unlit Shader Graph
 
-![270977375-3974a39c-5f47-415c-8af2-59f6880a789c](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/3f0b4bed-6a6d-4761-911e-675ad7eb021d)
+![Surge_Shader](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/3f0b4bed-6a6d-4761-911e-675ad7eb021d)
 
 #### Output Color
 <!--
@@ -33,11 +33,11 @@ Translucent Unlit / Sprite Unlit Shader Graph
 -->
 Curve Atlas Row Parameter: Мы хотим создать свой градиент из кривый внутри движка - мы создаем ColorCurve. Чтобы градиент/кривую конвертировать в текстуру - мы создаем CurveAtlas. Этот атлас может в себе хранить множество кривых, мы ограничимся одной. Теперь, чтобы атлас использовать в материале, мы используем нод Curve Atlas Row Parameter. Сначала добавляем атлас, потом кривую
 Sample Gradient
-![270977449-aad7af0b-b245-48e4-9451-ab1252fc89e3](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/708a0872-01b0-41ce-ab40-c7101cb4ced7)<!--
+![Surge_Color_CurveAtlasRowParam](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/708a0872-01b0-41ce-ab40-c7101cb4ced7)<!--
 ![Surge_Color_Output-Rerout](https://github.com/moskalentarium/IndikatorFest/assets/36862146/ce4a5af7-94f2-4085-8133-c12dc5f5b626)
 -->
-![270977488-b8d625f3-6c77-489a-823a-3856baa8bfeb](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/b726cf59-fb2f-4006-96e3-3e3f309ebdfc)
-![271103865-897fb9e0-e9f7-4487-92d6-6b8ce3f794d9](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/4887bf0d-4869-4e12-9d4e-263a9c032a0b)
+![Surge_Color_frame](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/b726cf59-fb2f-4006-96e3-3e3f309ebdfc)
+![Unity_OutputColor](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/4887bf0d-4869-4e12-9d4e-263a9c032a0b)
 
 #### UV Mask
 <!--
@@ -122,7 +122,8 @@ Refraction / IOR
 <!--
 ![Glow_RadialExpon](https://github.com/moskalentarium/IndikatorFest/assets/36862146/95ab6ed0-2e67-42a4-95cc-22bbdecee7fd)
 -->
-![270979455-df88e336-151c-40bc-874e-da61c9d7e680](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/46e2f294-926e-401f-92ab-9c7e3ae09de2)<!--
+![270979455-df88e336-151c-40bc-874e-da61c9d7e680](https://github.com/WhateversStudio/IndikatorFest_VFX_README/assets/36862146/46e2f294-926e-401f-92ab-9c7e3ae09de2)
+<!--
 ![Glow_Emissive](https://github.com/moskalentarium/IndikatorFest/assets/36862146/19a0535d-5f8e-4240-9b27-68055d647369)
 ![Glow_Opacity](https://github.com/moskalentarium/IndikatorFest/assets/36862146/20f8a326-d9a8-4a7e-acb3-08bcedb9f059)
 -->
